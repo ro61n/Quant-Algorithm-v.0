@@ -1,0 +1,25 @@
+
+{"orderMessage":"Starting from scratch"},
+
+
+
+{"date":"2019-02-14 16:19:12","orderType":"SELL","symbol":"GVTBTC","entryPrice":"0.00102100","orderPrice":"0.00101010","orderStopPrice":"0.00101000","orderQty":14,"pL":"LOSS","percentageReturn":-1.0675808031341716,"orderID":49960383,"date_JS":"2019-02-14T14:19:12.183Z","orderMessage":"SELL - Stop Loss - code 1"},
+{"date":"2019-02-14 16:19:14","btcAmount":0.014974351471563601,"date_JS":"2019-02-14T14:19:14.288Z","orderMessage":"updated bitcoin amount"},
+
+
+
+{"errorMessage":"ERROR CODE: 6"},
+{"errorMessage":"ERROR CODE: 5"},
+
+
+
+{"date":"2019-02-20 00:20:45","orderType":"SELL","symbol":"DASHBTC","entryPrice":"0.02175300","orderPrice":0.022948,"orderQty":0.316,"pL":"PROFIT","percentageReturn":5.49,"orderID":55570615,"date_JS":"2019-02-19T22:20:45.861Z","orderMessage":"SELL - Stop Loss - code 1"},
+{"date":"2019-02-20 00:20:46","orderType":"SELL","symbol":"DASHBTC","entryPrice":"0.02175300","orderPrice":0.022948,"orderQty":0.316,"pL":"PROFIT","percentageReturn":5.49,"orderID":55570616,"date_JS":"2019-02-19T22:20:46.141Z","orderMessage":"SELL - Stop Loss - code 1"},
+{"date":"2019-02-20 00:22:45","orderType":"SELL","symbol":"DASHBTC","entryPrice":"0.02175300","orderPrice":0.029217,"orderQty":0.317,"pL":"PROFIT","percentageReturn":34.3,"orderID":55570656,"date_JS":"2019-02-19T22:22:45.429Z","orderMessage":"SELL - Stop Loss - code 1"},
+{"date":"2019-02-20 11:07:16","orderType":"SELL","symbol":"LSKBTC","entryPrice":"0.00031850","orderPrice":"0.00031510","orderStopPrice":"0.00031490","orderQty":42,"pL":"LOSS","percentageReturn":-1.0675039246467732,"orderID":38534481,"date_JS":"2019-02-20T09:07:16.141Z","orderMessage":"SELL - Stop Loss - code 1"},
+{"date":"2019-02-20 11:07:17","orderType":"SELL","symbol":"LSKBTC","orderID":38534481,"date_JS":"2019-02-20T09:07:17.607Z","orderMessage":"Cancel Order - code 6"},
+{"date":"2019-02-20 11:07:18","btcAmount":0.0145712451423748,"date_JS":"2019-02-20T09:07:18.137Z","orderMessage":"updated bitcoin amount"},
+{"date":"2019-02-20 11:07:18","orderType":"SELL","symbol":"LSKBTC","entryPrice":"0.00031850","orderPrice":"0.00031570","orderStopPrice":"0.00031530","orderQty":42,"pL":"LOSS","percentageReturn":-0.8791208791208871,"orderID":38534492,"date_JS":"2019-02-20T09:07:18.616Z","orderMessage":"SELL - Stop Loss - code 7"},
+{"date":"2019-02-20 11:07:20","btcAmount":0.014571246298762799,"date_JS":"2019-02-20T09:07:20.107Z","orderMessage":"updated bitcoin amount"},
+{"date":"2019-02-20 11:07:20","btcAmount":0.014571245142374798,"date_JS":"2019-02-20T09:07:20.161Z","orderMessage":"updated bitcoin amount"},
+{"date":"2019-02-20 11:07:21","btcAmount":0.014571238489942798,"date_JS":"2019-02-20T09:07:21.104Z","orderMessage":"updated bitcoin amount"},
