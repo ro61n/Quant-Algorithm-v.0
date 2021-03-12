@@ -7,7 +7,7 @@ An experimental Node.Js algorithm that connects to your binance account via a we
 - Unzip 'node_modules' package
 
 # Program code:
-- Enter your personal details wherever commend line that begins with '//<--- INPUT:' occurs in casinoBot___GH.js file. 
+- Enter your personal details wherever commend line that begins with '//<--- INPUT:' occurs in originalBot___GH.js file. 
 
 # Run code:
 - Open command prompt
